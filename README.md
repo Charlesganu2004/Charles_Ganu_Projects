@@ -1,5 +1,18 @@
 # Table of Contents
 
+## Projects List
+
+1. [Project 4.4: Solving and Visualizing Differential Equations in Electrical Circuits](#project-44-solving-and-visualizing-differential-equations-in-electrical-circuits)
+2. [Project 3.9: Implementation of Conway’s Game of Life](#project-39-implementation-of-conways-game-of-life)
+3. [Project 3.10: Optimized Game of Life with User Input Handling](#project-310-optimized-game-of-life-with-user-input-handling)
+4. [Project 3.11: Polygon Class with Point-Inside Detection](#project-311-polygon-class-with-point-inside-detection)
+5. [Project 4.6: Model Predictive Control for a 2D Motion System](#project-46-model-predictive-control-for-a-2d-motion-system)
+6. [Project 6.5: Neural Network Prediction of Lorenz System Dynamics](#project-65-neural-network-prediction-of-lorenz-system-dynamics)
+7. [Project 7.5: System Identification using Sparse Regression (SINDy)](#project-75-system-identification-using-sparse-regression-sindy)
+8. [Project 8.4: Modeling and Analysis of a Physical Pendulum](#project-84-modeling-and-analysis-of-a-physical-pendulum)
+
+---
+
 ## Project 4.4: Solving and Visualizing Differential Equations in Electrical Circuits
 **Overview**: Analytical and numerical solution of a differential equation for an RLC circuit using symbolic computation.  
 **Technologies**: Python, SymPy, NumPy, Matplotlib  
